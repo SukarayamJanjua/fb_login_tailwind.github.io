@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+.btn-new{
+    background-color: rgb(25, 163, 20)
+}
+
+@tailwind utilities;
+
